@@ -1,0 +1,7 @@
+{
+  "name": "Tokenomics: AI Inference Economics & FinOps Studio",
+  "description": "Executive modeling workbench for LLM token economics, inference cost optimization strategies, organizational FinOps governance, and deployment risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
